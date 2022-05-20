@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>024_0.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>4096</width>
+    <height>3286</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>unlabelled_tick</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>102.1426773071289</xmin>
+      <ymin>135.65660095214844</ymin>
+      <xmax>280.1514892578125</xmax>
+      <ymax>313.1014099121094</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>unlabelled_tick</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>101.45802307128906</xmin>
+      <ymin>100.27268981933594</ymin>
+      <xmax>280.1514892578125</xmax>
+      <ymax>313.1014099121094</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>056_2.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>1536</width>
+    <height>2048</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>unlabelled_tick</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>167.02220153808594</xmin>
+      <ymin>128.74795532226562</ymin>
+      <xmax>204.2906951904297</xmax>
+      <ymax>167.4532470703125</ymax>
+    </bndbox>
+  </object>
+</annotation>

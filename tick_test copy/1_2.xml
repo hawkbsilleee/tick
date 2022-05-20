@@ -1,0 +1,26 @@
+<annotation>
+    <folder>images</folder>
+    <filename>1_2.jpg</filename>
+    <path>tick_test copy/1_2.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>674</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>unlabelled_tick</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>109.56201171875</xmin>
+            <ymin>21.586816787719727</ymin>
+            <xmax>289.0353698730469</xmax>
+            <ymax>326.5187072753906</ymax>
+        </bndbox>
+    </object>
+</annotation>
