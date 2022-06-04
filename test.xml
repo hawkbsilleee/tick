@@ -1,0 +1,35 @@
+<annotation>
+	<filename>adfdf.jpg</filename>
+	<path>test_direasdct/adfdf.jpg</path>
+	<source>
+		<database>Unkown</database>
+	</source>
+	<size>
+		<width>20</width>
+		<height>21</height>
+		<depth>2</depth>
+	</size>
+	<segmented/>
+	<object>
+		<name>dog tick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>1232</ymin>
+			<xmax>1</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+		<name>dog tick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>1232</ymin>
+			<xmax>1</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

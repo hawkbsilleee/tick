@@ -1,0 +1,35 @@
+<annotation>
+	<filename>79560088.jpg</filename>
+	<path>test_direct/79560088.jpg</path>
+	<source>
+		<database>Unkown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented/>
+	<object>
+		<name>dog tick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>308</ymin>
+			<xmax>148</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+		<name>dog tick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>147</ymin>
+			<xmax>283</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>
